@@ -1,6 +1,6 @@
 # 🤖 Gemini LLM Workshop
 
-> **Gemini, RAG ve AI Agent'ları sıfırdan keşfetmek için uygulamalı bir LLM workshop projesi. Roketsan Coderspace ortaklığı ile geliştirildi.**
+> **Gemini, RAG ve AI Agent'ları sıfırdan keşfetmek için uygulamalı bir LLM workshop projesi. Roketsan & Coderspace ortaklığı ile geliştirildi.**
 
 Bu repository, **Google Gemini** ve **LangChain / LangGraph** ekosistemini kullanarak modern LLM uygulamalarının temel yapı taşlarını adım adım göstermeyi amaçlar.
 
